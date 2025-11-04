@@ -27,3 +27,8 @@
     width: auto;
     background-color: blue;
 }
+
+footer {
+    background-color: cadetblue;
+    padding: 5vh;
+}
